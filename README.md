@@ -8,8 +8,6 @@
 Hi! I'm Cledson Lopes and I´m a developer 
 
 -  I used to work with with php, JS, HTML, CSS and some multimedia projects just like videos and games 
--  But now, I’m currently learning React, Node and JS and loving it all!
--  I’m studing JS, Node and React, trying to improve my skills
 -  I love technology and design too!
 -  I use to study Unity and C# for develop some games and apps
 -  I like other things just like 3d, animations, music and cars 
